@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab02InteraccionActividades</string>
+    <string name="valbtnsend">btn1</string>
+    <string name="valbtnback">btn2</string>
+
+</resources>
